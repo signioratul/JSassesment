@@ -40,6 +40,9 @@ function getTotalSupply() {
 
 // call your functions below this line
 mintNFT("alex","India","mumbai");
+mintNFT("max","India","delhi");
+mintNFT("richard","India","mumbai");
+mintNFT("pete","India","lucknow");
 listNFTs();
 getTotalSupply();
 
